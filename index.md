@@ -116,14 +116,12 @@ Después de contestar todas las preguntas, te encontras con un castillo. Felicid
 
 ####  Assets
 
-
 <img src="assets/castillo.png"> <img src="assets/DogRun.png"> <img src="assets/pared.png"> <img src="assets/pregunta.png"> <img src="assets/pilaCaja.png"> <img src="assets/gatoMix.png">
-
 
 
 ### Interfaz
  
- <img src="/imagenes/interfaz3.png">
+<img src="/imagenes/interfaz3.png">
  
  
 
