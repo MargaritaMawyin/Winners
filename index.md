@@ -1,6 +1,6 @@
 # Nombre del juego
 
-Link al juego :video_game: [Comienza el juego aquí](https://margaritamawyin.github.io/RunCatVJ/)
+[Comienza el juego aquí](https://margaritamawyin.github.io/RunCatVJ/)
 
 ## Ideación
 
