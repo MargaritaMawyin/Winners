@@ -2,9 +2,7 @@
 
 Link al juego :video_game: [Comienza el juego aquí](https://margaritamawyin.github.io/RunCatVJ/)
 
-
-<a name="ideacion"> </a> 
- ## :large_blue_circle:  Ideación
+## Ideación
 
 1. Animalito de la calle que tiene misiones para ayudar a las personas que están la calle. 
 
@@ -41,7 +39,7 @@ Link al juego :video_game: [Comienza el juego aquí](https://margaritamawyin.git
 17. Un gato debe atravesar un mapa de peligros hasta llegar al pescadito. Es juego por niveles. Con cada nivel se aumenta la dificultad.
 
 
- <a name="lluvia"> </a> 
+
  ###  Luvia de ideas
 
 1. Un animalito corriendo por una calle
@@ -61,7 +59,7 @@ Link al juego :video_game: [Comienza el juego aquí](https://margaritamawyin.git
 15. 
     
 
- <a name="seleccionda"> </a> 
+
  ###  Idea seleccionada
 
  *En una pantalla del celular, se presenta un camino, un perro corre de un peligro y en el camino debe moverse derecha-izquierda para esquivar obstáculos y atrapar croquetas que se le presentan en la via*
@@ -74,9 +72,7 @@ Link al juego :video_game: [Comienza el juego aquí](https://margaritamawyin.git
  5. No atrapa croquetas, sino que busca responder el mayor número de preguntas.
 
 
-
- <a name="phaser"> </a> 
- ## :large_blue_circle:  Seleccion de herramienta para creacion del video juego
+## :large_blue_circle:  Seleccion de herramienta para creacion del video juego
 
 [Phaser](https://desarrolloweb.com/articulos/introduccion-phaser) es un motor de juegos 2D realizado sobre Javascript. Es simplemente un framework o biblioteca de código Javascript que puedes incluir en tu página y mediante la cual puedes desarrollar juegos de diferentes tipos
 
@@ -88,15 +84,10 @@ También es posible descargar Phaser desde su página web: https://phaser.io/dow
 
 *El único requisito* que se necesita para que Phaser funcione correctamente es usar un servidor web para arrancar el juego. Vale cualquier servidor web que pueda tener o usar habitualmente. Asegurarse que se accede al servidor donde se encuentra el juego a través de `http://` en lugar de `file://`. Este requisito se debe a que Phaser hace la carga de todas las imágenes, sonidos y recursos necesarios para mover el juego mediante *Ajax*, por lo que es necesario abrir la página a través de http, aunque vayamos a acceder a un archivo que está en nuestra propia máquina local.
 
-
-
- <a name="desarrollo"> </a> 
  ## :large_blue_circle: Desarrollo de idea seleccionada
 
- <a name="mecanicas"> </a> 
  ###  Mecanicas del juego
 
- <a name="introduccion"> </a> 
  ####  Introducción
 
 * Número de jugadores: 1 jugador 
@@ -107,45 +98,39 @@ También es posible descargar Phaser desde su página web: https://phaser.io/dow
 
 XXX es un juego para dispositivo web enfocado a fomentar el cuidado animal con cortas preguntas y 2 opciones de respuesta. Se juega de manera individual hasta perder o completar todas las preguntas.  
 
- <a name="instrucciones"> </a> 
+
  ####  Instrucciones
 
 
 Usando la barra espaciadora, debes saltar, evitando morrir mientras recorres la calle. Ten cuidado con los perros, si te tocan , pierdes 1 vida, OJO, tienes solo 5 vidas al inicio del juego. Si deseas bajar rapido, usa el boton de “abajo”. 
 
 
- <a name="reglas"> </a> 
- ####  Reglas
+####  Reglas
 
 Estas  corriendo por la calle y se te va presentar una pregunta relacionada al cuidado de mascotas, seguido tendras dos opciones de respuestas, una correcta y otra incorrecta. Deber tomar el camino donde este la respuesta correcta para continuar con el juego, caso contrario pierdes. 
 
 
- <a name="fin"> </a> 
- ####  Fin del juego
+####  Fin del juego
 
 Después de contestar todas las preguntas, te encontras con un castillo. Felicidades! Has logrado escapar de la fría y peligrosa calle. 
 
-
- <a name="assets"> </a> 
- ####  Assets
+####  Assets
 
 
 <img src="assets/castillo.png"> <img src="assets/DogRun.png"> <img src="assets/pared.png"> <img src="assets/pregunta.png"> <img src="assets/pilaCaja.png"> <img src="assets/gatoMix.png">
 
 
 
-<a name="interfaz"> </a> 
-
- ### Interfaz
+### Interfaz
  
  <img src="/imagenes/interfaz3.png">
  
  
-<a name="testing"> </a> 
- ## :large_blue_circle: Play testing
+
+## :large_blue_circle: Play testing
  
-  <a name="manual"> </a> 
- ## :large_blue_circle: Manual de usuario
+
+## :large_blue_circle: Manual de usuario
  
 
 
