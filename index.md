@@ -40,7 +40,7 @@
 
 
 
- ###  Luvia de ideas
+###  Luvia de ideas
 
 1. Un animalito corriendo por una calle
 2. Un gato escapando de un peligro
@@ -60,7 +60,7 @@
     
 
 
- ###  Idea seleccionada
+###  Idea seleccionada
 
  *En una pantalla del celular, se presenta un camino, un perro corre de un peligro y en el camino debe moverse derecha-izquierda para esquivar obstáculos y atrapar croquetas que se le presentan en la via*
 
@@ -72,7 +72,7 @@
  5. No atrapa croquetas, sino que busca responder el mayor número de preguntas.
 
 
-## :large_blue_circle:  Seleccion de herramienta para creacion del video juego
+## Seleccion de herramienta para creacion del video juego
 
 [Phaser](https://desarrolloweb.com/articulos/introduccion-phaser) es un motor de juegos 2D realizado sobre Javascript. Es simplemente un framework o biblioteca de código Javascript que puedes incluir en tu página y mediante la cual puedes desarrollar juegos de diferentes tipos
 
@@ -84,11 +84,11 @@ También es posible descargar Phaser desde su página web: https://phaser.io/dow
 
 *El único requisito* que se necesita para que Phaser funcione correctamente es usar un servidor web para arrancar el juego. Vale cualquier servidor web que pueda tener o usar habitualmente. Asegurarse que se accede al servidor donde se encuentra el juego a través de `http://` en lugar de `file://`. Este requisito se debe a que Phaser hace la carga de todas las imágenes, sonidos y recursos necesarios para mover el juego mediante *Ajax*, por lo que es necesario abrir la página a través de http, aunque vayamos a acceder a un archivo que está en nuestra propia máquina local.
 
- ## :large_blue_circle: Desarrollo de idea seleccionada
+## Desarrollo de idea seleccionada
 
- ###  Mecanicas del juego
+###  Mecanicas del juego
 
- ####  Introducción
+####  Introducción
 
 * Número de jugadores: 1 jugador 
 * Duración aproximada del juego: 5 minutos 
@@ -127,20 +127,11 @@ Después de contestar todas las preguntas, te encontras con un castillo. Felicid
  
  
 
-## :large_blue_circle: Play testing
+## Play testing
  
 
-## :large_blue_circle: Manual de usuario
+## Manual de usuario
  
-
-
-
-Video
-https://youtu.be/nW-WKJTdaiE
-
-Play
-http://rudorude.acedevel.com
-
 
 
 
