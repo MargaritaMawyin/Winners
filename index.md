@@ -64,7 +64,7 @@
 
  *En una pantalla del celular, se presenta un camino, un perro corre de un peligro y en el camino debe moverse derecha-izquierda para esquivar obstáculos y atrapar croquetas que se le presentan en la via*
 
- **A la idea se le hicieron varios cambios despues de ser seleccioanda:**
+ **A la idea se le hicieron varios cambios después de ser seleccioanda**
  1. El juego es para página web o para celular
  2. Un gato corre de un peligro, en vez de un perro.
  3. No se mueve a la derecha o a la izquiera, se mueve en una sola direccion y solo se puede saltar
@@ -85,8 +85,6 @@ También es posible descargar Phaser desde su página web: https://phaser.io/dow
 *El único requisito* que se necesita para que Phaser funcione correctamente es usar un servidor web para arrancar el juego. Vale cualquier servidor web que pueda tener o usar habitualmente. Asegurarse que se accede al servidor donde se encuentra el juego a través de `http://` en lugar de `file://`. Este requisito se debe a que Phaser hace la carga de todas las imágenes, sonidos y recursos necesarios para mover el juego mediante *Ajax*, por lo que es necesario abrir la página a través de http, aunque vayamos a acceder a un archivo que está en nuestra propia máquina local.
 
 ## Desarrollo de idea seleccionada
-
-###  Mecanicas del juego
 
 ####  Introducción
 
@@ -118,12 +116,18 @@ Después de contestar todas las preguntas, te encontras con un castillo. Felicid
 
 <img src="assets/castillo.png"> <img src="assets/DogRun.png"> <img src="assets/pared.png"> <img src="assets/pregunta.png"> <img src="assets/pilaCaja.png"> <img src="assets/gatoMix.png">
 
+### Prototipos de baja fidelidad
+
+<img src="/imagenes/.png">
 
 ### Interfaz
  
 <img src="/imagenes/interfaz3.png">
  
- 
+### Diseños
+
+<img src="/imagenes/.png">
+
 
 ## Play testing
  
