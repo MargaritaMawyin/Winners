@@ -1,4 +1,4 @@
-# Nombre del juego
+# Stray cat 
 
 [Comienza el juego aquí](https://margaritamawyin.github.io/RunCatVJ/)
 
@@ -97,18 +97,15 @@ También es posible descargar Phaser desde su página web: https://phaser.io/dow
 * Tipo: Video Juegos en la Web 
 * Género: Amistoso 
 
-XXX es un juego para dispositivo web enfocado a fomentar el cuidado animal con cortas preguntas y 2 opciones de respuesta. Se juega de manera individual hasta perder o completar todas las preguntas.  
+Stray cat es un juego para dispositivo web enfocado a fomentar el cuidado animal con cortas preguntas y 2 opciones de respuesta. Se juega de manera individual hasta perder o completar todas las preguntas.  
 
-
- ####  Instrucciones
+####  Instrucciones
 
 Usando la barra espaciadora, debes saltar, evitando morrir mientras recorres la calle. Ten cuidado con los perros, si te tocan , pierdes 1 vida, OJO, tienes solo 5 vidas al inicio del juego. Si deseas bajar rapido, usa el boton de “abajo”. 
-
 
 ####  Reglas
 
 Estas  corriendo por la calle y se te va presentar una pregunta relacionada al cuidado de mascotas, seguido tendras dos opciones de respuestas, una correcta y otra incorrecta. Deber tomar el camino donde este la respuesta correcta para continuar con el juego, caso contrario pierdes. 
-
 
 ####  Fin del juego
 
@@ -116,25 +113,23 @@ Después de contestar todas las preguntas, te encontras con un castillo. Felicid
 
 ####  Assets
 
-<img src="assets/castillo.png"> <img src="assets/DogRun.png"> <img src="assets/pared.png"> <img src="assets/pregunta.png"> <img src="assets/pilaCaja.png"> <img src="assets/gatoMix.png">
+<img src="https://github.com/MargaritaMawyin/Winners/blob/main/assets/castillo.png"> <img src="https://github.com/MargaritaMawyin/Winners/blob/main/assets/DogRun.png"> <img src="https://github.com/MargaritaMawyin/Winners/blob/main/assets/pared.png"> <img src="https://github.com/MargaritaMawyin/Winners/blob/main/assets/pregunta.png"> <img src="https://github.com/MargaritaMawyin/Winners/blob/main/assets/pilaCaja.png"> <img src="https://github.com/MargaritaMawyin/Winners/blob/main/assets/gatoMix.png">
 
 ### Prototipos de baja fidelidad
 
-<img src="/imagenes/prototipoB1.jpeg" width="30%"> <img src="/imagenes/prototipoB2.jpeg" width="30%"> <img src="/imagenes/prototipoB3.jpeg" width="30%">
+<img src="https://github.com/MargaritaMawyin/Winners/blob/main/imagenes/prototipoB1.jpeg" width="30%"> <img src="https://github.com/MargaritaMawyin/Winners/blob/main/imagenes/prototipoB2.jpeg" width="30%"> <img src="https://github.com/MargaritaMawyin/Winners/blob/main/imagenes/prototipoB3.jpeg" width="30%">
 
 ### Interfaz
  
-<img src="/imagenes/interfaz3.png"  width="40%">
- 
+<img src="https://github.com/MargaritaMawyin/Winners/blob/main/imagenes/interfaz3.png"  width="40%">
+
 ### Diseños
 
-<img src="/imagenes/inicio.jpeg"  width="25%"> <img src="/imagenes/gameover.jpeg" width="25%"> 
-
+<img src="https://github.com/MargaritaMawyin/Winners/blob/main/imagenes/inicio.jpeg"  width="25%"> <img src="https://github.com/MargaritaMawyin/Winners/blob/main/imagenes/gameover.jpeg" width="25%"> 
 
 ## Play testing
  
 **Playtesting 2**
-
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2oTCqbHfM6I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
