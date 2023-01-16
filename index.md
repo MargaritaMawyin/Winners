@@ -56,13 +56,16 @@
 12. Peces huyendo de un gato
 13. Ratones huyendo de un gato
 14. Gato huyendo de un perro
-15. 
+15. Preguntas cayendo de arriba, si la atrapa se presenta la pregunta contestar
+16. Un animalito escapando de un laberinto
+17. Animalito que se mueve derecha-izquierda y debe atrapar solo alimentos comestibles
+18. Un gato o perro que se mueve de derecha o izquierda atrapa frases correctas sobre el cuidado animal
     
 
 
 ###  Idea seleccionada
 
- *En una pantalla del celular, se presenta un camino, un perro corre de un peligro y en el camino debe moverse derecha-izquierda para esquivar obstáculos y atrapar croquetas que se le presentan en la via*
+ En una pantalla del celular, se presenta un camino, un perro corre de un peligro y en el camino debe moverse derecha-izquierda para esquivar obstáculos y atrapar croquetas que se le presentan en la via
 
  **A la idea se le hicieron varios cambios después de ser seleccioanda**
  1. El juego es para página web o para celular
@@ -99,7 +102,6 @@ XXX es un juego para dispositivo web enfocado a fomentar el cuidado animal con c
 
  ####  Instrucciones
 
-
 Usando la barra espaciadora, debes saltar, evitando morrir mientras recorres la calle. Ten cuidado con los perros, si te tocan , pierdes 1 vida, OJO, tienes solo 5 vidas al inicio del juego. Si deseas bajar rapido, usa el boton de “abajo”. 
 
 
@@ -118,21 +120,27 @@ Después de contestar todas las preguntas, te encontras con un castillo. Felicid
 
 ### Prototipos de baja fidelidad
 
-<img src="/imagenes/.png">
+<img src="/imagenes/prototipoB1.jpeg" width="30%"> <img src="/imagenes/prototipoB2.jpeg" width="30%"> <img src="/imagenes/prototipoB3.jpeg" width="30%">
 
 ### Interfaz
  
-<img src="/imagenes/interfaz3.png">
+<img src="/imagenes/interfaz3.png"  width="40%">
  
 ### Diseños
 
-<img src="/imagenes/.png">
+<img src="/imagenes/inicio.jpeg"  width="25%"> <img src="/imagenes/gameover.jpeg" width="25%"> 
 
 
 ## Play testing
  
+**Playtesting 2**
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2oTCqbHfM6I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Manual de usuario
+
+
  
 
 
