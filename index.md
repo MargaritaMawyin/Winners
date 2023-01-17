@@ -117,15 +117,15 @@ Después de contestar todas las preguntas, te encontras con un castillo. Felicid
 
 ### Prototipos de baja fidelidad
 
-<img src="https://github.com/MargaritaMawyin/Winners/blob/main/imagenes/prototipoB1.jpeg" width="30%" alt="diseno"> <img src="https://github.com/MargaritaMawyin/Winners/blob/main/imagenes/prototipoB2.jpeg" width="30%" alt="diseno"> <img src="https://github.com/MargaritaMawyin/Winners/blob/main/imagenes/prototipoB3.jpeg" width="30%" alt="diseno">
+<img src="imagenes/prototipoB1.jpeg" width="30%" alt="diseno"> <img src="imagenes/prototipoB2.jpeg" width="30%" alt="diseno"> <img src="imagenes/prototipoB3.jpeg" width="30%" alt="diseno">
 
 ### Interfaz
  
-<img src="/imagenes/interfaz3.png"  width="40%" alt="diseno">
+<img src="imagenes/interfaz3.png"  width="40%" alt="diseno">
 
 ### Diseños
 
-<img src="/imagenes/inicio.jpeg"  width="25%" alt="diseno"> <img src="imagenes/gameover.jpeg" width="25%" alt="diseno"> 
+<img src="imagenes/inicio.jpeg"  width="25%" alt="diseno"> <img src="imagenes/gameover.jpeg" width="25%" alt="diseno"> 
 
 ## Play testing
  
