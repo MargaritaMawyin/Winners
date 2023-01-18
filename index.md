@@ -101,15 +101,21 @@ Stray cat es un juego para dispositivo web enfocado a fomentar el cuidado animal
 
 ####  Instrucciones
 
-Usando la barra espaciadora, debes saltar, evitando morrir mientras recorres la calle. Ten cuidado con los perros, si te tocan , pierdes 1 vida, OJO, tienes solo 5 vidas al inicio del juego. Si deseas bajar rapido, usa el boton de “abajo”. 
+| Comando | Acción | 
+| :---: | :---: |
+| `Barra espaciadora` , :arrow_up: | Saltar  | 
+| :arrow_down: | Bajar rápido  | 
+
+Usando la barra espaciadora, debes saltar, evitando morrir mientras recorres por la calle. Ten cuidado con los perros, si te tocan , pierdes 1 vida, OJO, tienes solo 5 vidas al inicio del juego. Si deseas bajar rapido, usa el boton de “abajo”. 
 
 ####  Reglas
 
-Estas  corriendo por la calle y se te va presentar una pregunta relacionada al cuidado de mascotas, seguido tendras dos opciones de respuestas, una correcta y otra incorrecta. Deber tomar el camino donde este la respuesta correcta para continuar con el juego, caso contrario pierdes. 
+Si te topas con un perro, pierdes 1 vida.
+Si topas con el signo de pregunta, te aparecerá una pregunta de 2 opciones, la opción correcta muestra el camino por donde continua el juego. Si te equivocas de camino, pierdes inevitablemente.
 
 ####  Fin del juego
 
-Después de contestar todas las preguntas, te encontras con un castillo. Felicidades! Has logrado escapar de la fría y peligrosa calle. 
+Después de contestar todas las preguntas, te encontrarás con un castillo. Felicidades! Has logrado escapar de la fría y peligrosa calle. 
 
 ####  Assets
 
@@ -138,8 +144,6 @@ Después de contestar todas las preguntas, te encontras con un castillo. Felicid
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qZaPg4RkT8A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
-## Manual de usuario
 
 
  
