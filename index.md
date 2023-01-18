@@ -125,13 +125,17 @@ Después de contestar todas las preguntas, te encontras con un castillo. Felicid
 
 ### Diseños
 
-<img src="imagenes/inicio.jpeg"  width="25%" alt="diseno"> <img src="imagenes/gameover.jpeg" width="25%" alt="diseno"> 
+<img src="imagenes/inicio.jpeg"  width="25%" alt="diseno"> <img src="imagenes/gameover.jpeg" width="25%" alt="diseno"> <img src="imagenes/pregunta.jpeg" width="25%" alt="diseno"> 
 
 ## Play testing
  
+**Playtesting 1**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mWsCEwf6K_U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 **Playtesting 2**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2oTCqbHfM6I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Manual de usuario
 
