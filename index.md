@@ -89,16 +89,24 @@ También es posible descargar Phaser desde su página web: https://phaser.io/dow
 
 ## Desarrollo de idea seleccionada
 
-####  Introducción
-
-* Número de jugadores: 1 jugador 
-* Duración aproximada del juego: 5 minutos 
-* Edad mínima recomendada: 10 años 
-* Tipo: Video Juegos en la Web 
-* Género: Amistoso 
-
+<table style="width: 100%; text-align: center;">
+  <tr>
+    <td style="width: 50%;">Primer Manual</td>
+    <td style="width: 50%;">Segundo Manuel</td>
+    <td style="width: 50%;">Manual Final</td>
+  </tr>
+  <tr>
+    <td colspan="3" style="width: 100%; padding-top: 50px;">
+        <br> Introducción </br>
+    <ol type=”A”>
+        <li>Número de jugadores: 1 jugador </li>
+        <li>Duración aproximada del juego: 5 minutos </li>
+        <li>Edad mínima recomendada: 10 años </li>
+        <li>Tipo: Video Juegos en la Web  </li>
+        <li>Género: Amistoso </li>
+    </ol>
+ 
 Stray cat es un juego para dispositivo web enfocado a fomentar el cuidado animal con cortas preguntas y 2 opciones de respuesta. Se juega de manera individual hasta perder o completar todas las preguntas.  
-
 ####  Instrucciones
 
 | Comando | Acción | 
@@ -116,6 +124,71 @@ Si topas con el signo de pregunta, te aparecerá una pregunta de 2 opciones, la 
 ####  Fin del juego
 
 Después de contestar todas las preguntas, te encontrarás con un castillo. Felicidades! Has logrado escapar de la fría y peligrosa calle. 
+ </td>
+<td  colspan="3" style="width: 100%; padding-top: 50px;">
+        <br> Introducción </br>
+    <ol type=”A”>
+        <li>Número de jugadores: 1 jugador </li>
+        <li>Duración aproximada del juego: 5 minutos </li>
+        <li>Edad mínima recomendada: 10 años </li>
+        <li>Tipo: Video Juegos en la Web  </li>
+        <li>Género: Amistoso </li>
+    </ol>
+ 
+Stray cat es un juego para dispositivo web enfocado a fomentar el cuidado animal con cortas preguntas y 2 opciones de respuesta. Se juega de manera individual hasta perder o completar todas las preguntas.  
+####  Instrucciones
+
+| Comando | Acción | 
+| :---: | :---: |
+| `Barra espaciadora` , :arrow_up: | Saltar  | 
+| :arrow_down: | Bajar rápido  | 
+
+Usando la barra espaciadora, debes saltar, evitando morrir mientras recorres por la calle. Ten cuidado con los perros, si te tocan , pierdes 1 vida, OJO, tienes solo 5 vidas al inicio del juego. Si deseas bajar rapido, usa el boton de “abajo”. 
+
+####  Reglas
+
+Si te topas con un perro, pierdes 1 vida.
+Si topas con el signo de pregunta, te aparecerá una pregunta de 2 opciones, la opción correcta muestra el camino por donde continua el juego. Si te equivocas de camino, pierdes inevitablemente.
+
+####  Fin del juego
+
+Después de contestar todas las preguntas, te encontrarás con un castillo. Felicidades! Has logrado escapar de la fría y peligrosa calle. 
+  </tr>
+  </td>
+  <td  colspan="3" style="width: 100%; padding-top: 50px;">
+      <br> Introducción </br>
+    <ol type=”A”>
+        <li>Número de jugadores: 1 jugador </li>
+        <li>Duración aproximada del juego: 5 minutos </li>
+        <li>Edad mínima recomendada: 10 años </li>
+        <li>Tipo: Video Juegos en la Web  </li>
+        <li>Género: Amistoso </li>
+    </ol>
+ 
+Stray cat es un juego para dispositivo web enfocado a fomentar el cuidado animal con cortas preguntas y 2 opciones de respuesta. Se juega de manera individual hasta perder o completar todas las preguntas.  
+####  Instrucciones
+
+| Comando | Acción | 
+| :---: | :---: |
+| `Barra espaciadora` , :arrow_up: | Saltar  | 
+| :arrow_down: | Bajar rápido  | 
+
+Usando la barra espaciadora, debes saltar, evitando morrir mientras recorres por la calle. Ten cuidado con los perros, si te tocan , pierdes 1 vida, OJO, tienes solo 5 vidas al inicio del juego. Si deseas bajar rapido, usa el boton de “abajo”. 
+
+####  Reglas
+
+Si te topas con un perro, pierdes 1 vida.
+Si topas con el signo de pregunta, te aparecerá una pregunta de 2 opciones, la opción correcta muestra el camino por donde continua el juego. Si te equivocas de camino, pierdes inevitablemente.
+
+####  Fin del juego
+
+Después de contestar todas las preguntas, te encontrarás con un castillo. Felicidades! Has logrado escapar de la fría y peligrosa calle. 
+    
+  </td>
+</tr>
+
+</table>
+
 
 ####  Assets
 
